@@ -1,0 +1,11 @@
+DAT 0
+DAT 12
+MOV @-2 @-1
+CMP -3 #11
+JMP 4
+ADD #1 -5
+ADD #1 -5
+JMP -5
+MOV #0 4
+MOV #12 4
+JMP 4
